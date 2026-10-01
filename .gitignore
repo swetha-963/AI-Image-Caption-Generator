@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+# BLIP model
+models/
